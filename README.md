@@ -1,26 +1,12 @@
-# Software profesional en Acústica: Máster en Matemática Industrial [M2i]
+# Software profesional en Acústica: carpeta prácticas 2022
 
-Estos ficheiros Jupyper correspóndense cos guións das prácticas titorizadas da materia
-**Software profesional en Acústica** impartido por Andrés Prieto e Luis Hervella para o
-Mestrado en Matemática Industrial na Universidade
-da Coruña. 
-
-Os cadernos Jupyter póden ser usados, compartidos e modificados de forma gratuita. 
-Véxase a licencia e os dereitos de autor descritos máis abaixo.
+Prácticas de los estudiantes para los trabajos encargados en el curso 2021/22.
 
 ## Visualización e execución
 
 As copias destes ficheiros Jupyter están aloxadas no servizo da nube proporcionado por
 Binder, na carpeta **practicas**, accesibles dende a seguinte ligazón:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maprieto/SoftwareProfesionalAcustica/HEAD)
-
-Para unha mellor experiencia recomendase ou ben descargalos ou clonar (usando a opción 'clone')
-o proxecto completo de Github para usar estes ficheiros nun entorno Jupyter en local.
-
-## Comenzando
-
-Cada caderno Jupyter Notebook analiza un tema, con un pequeno conxunto de exercicios
-que deberán ser realizados polo alumnado ao rematar a sesión práctica.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LuisHervella/Software_acustica_2022/HEAD)
 
 ## Licencia e copyright
 
